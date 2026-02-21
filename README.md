@@ -9,4 +9,9 @@ Learn about the:
  * how to typeset
  * and many more!
 
-Hope you have fun, and i can't wait to read your works :D
+Some of these are my own ideas, but the most are from books and tutorials online which I've gathered over the years.
+
+I often struggled and dreamed of a website that would unite all that knowledge into one place, just for Manga/Comic book artists! And since no one wants to do it, I will attempt to do it myself. 😊
+
+
+Hope you have fun, and i can't wait to read your works 😁
