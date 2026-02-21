@@ -8,4 +8,5 @@ Learn about the:
  * how to catch the readers eye
  * how to typeset
  * and many more!
+
 Hope you have fun, and i can't wait to read your works :D
