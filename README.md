@@ -2,6 +2,7 @@
 Here you can learn about creating Manga, Comics and Fanzines!
 
 [➡️ Click here to go to the tutorial section! 📚](https://github.com/djapexlo/Manga-Tutorials-for-Creators/wiki)
+
 Learn about the:
  * panel flow
  * how to catch the readers eye
