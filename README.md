@@ -1,4 +1,4 @@
-# Manga-Tutorials-for-Creators
+# Manga-Tutorials-for-Creators - WIP
 Here you can learn about creating Manga, Comics and Fanzines!
 
 [➡️ Click here to go to the tutorial section! 📚](https://github.com/djapexlo/Manga-Tutorials-for-Creators/wiki)
